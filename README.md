@@ -1,2 +1,2 @@
 # BlockPage
-A collaborative open source webpage for Blockland players.
+A collaborative open source website for Blockland players.
