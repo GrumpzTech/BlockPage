@@ -376,26 +376,42 @@
         <!-- /.span4 --> </div>
       <!-- /.row -->
       <!-- START THE FEATURETTES -->
+      <div class="featurette"> <br>
+        <hr class="featurette-divider">
+        <h2 class="featurette-heading">What should I use to make my site?<span class="muted"></span></h2>
+        <p class="lead">I am currently using BlueGriffon as it seems to work
+          perfectly with this site. However following links doesn't seem to be a
+          thing on here, so for anything that isn't on the front page, like drop
+          downs, seems to need to be edited in source. I tried using Microsoft
+          Expression Web 4, but things don't show up right.</p>
+      </div>
       <hr class="featurette-divider">
-      <div class="featurette"> <img class="featurette-image pull-right" src="bootstrap/img/examples/browser-icon-chrome.png">
-        <h2 class="featurette-heading">To be removed and replaced.<span class="muted"></span></h2>
-        <p class="lead"><br>
+      <div class="featurette">
+        <h2 class="featurette-heading">Why does this site have parts of a
+          template still?<span class="muted"></span></h2>
+        <p class="lead">Still working on it right now, as well as thinking what
+          to do to edit those parts to be useful.</p>
+        <p><br>
         </p>
       </div>
       <hr class="featurette-divider">
-      <div class="featurette"> <img class="featurette-image pull-left" src="bootstrap/img/examples/browser-icon-firefox.png">
-        <h2 class="featurette-heading">To be removed and replaced.</h2>
-      </div>
-      <hr class="featurette-divider">
-      <div class="featurette"> <img class="featurette-image pull-right" src="bootstrap/img/examples/browser-icon-safari.png">
-        <h2 class="featurette-heading">To be removed and replaced.</h2>
+      <div class="featurette">
+        <h2 class="featurette-heading">Can I help with the design?<span class="muted"></span></h2>
+        <p class="lead">Sure! Just fork the repository (link at bottom of page)
+          and do a push request when you are done, and we will check it out!</p>
+        <p class="lead"><br>
+        </p>
+        <h2 class="featurette-heading"><br>
+        </h2>
       </div>
       <hr class="featurette-divider">
       <!-- /END THE FEATURETTES -->
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>© 2020 GrumpzTech, licensed under The Unlicense.</p>
+        <p style="text-align: center;">© 2020 GrumpzTech, licensed under The
+          Unlicense. <a href="https://github.com/GrumpzTech/BlockPage">GitHub
+            Repo</a></p>
       </footer>
     </div>
     <!-- /.container -->
